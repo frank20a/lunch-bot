@@ -1,0 +1,138 @@
+{
+    "year": 2023,
+    "week": 18,
+    "content": {
+        "monday": [
+            {
+                "description": "",
+                "name": "Stangs",
+                "price": "105",
+                "tags": []
+            }
+        ],
+        "tuesday": [
+            {
+                "description": "",
+                "name": "Pasta Bolognese",
+                "price": "105",
+                "tags": [
+                    "Lactose free"
+                ]
+            },
+            {
+                "description": "",
+                "name": "Chicken drumstick with hot curry sauce, rice",
+                "price": "105",
+                "tags": [
+                    "Gluten free"
+                ]
+            },
+            {
+                "description": "",
+                "name": "Spicy chickpea casserole with grilled vegetables and rice",
+                "price": "105",
+                "tags": []
+            }
+        ],
+        "wednesday": [
+            {
+                "description": "",
+                "name": "Pasta gratin with chicken & pesto",
+                "price": "105",
+                "tags": []
+            },
+            {
+                "description": "",
+                "name": "Chilli stew with beef & vegetables, roasted potatoes",
+                "price": "105",
+                "tags": [
+                    "Gluten free"
+                ]
+            },
+            {
+                "description": "",
+                "name": "Vegan wok with rice noodles and tofu",
+                "price": "105",
+                "tags": [
+                    "Vegan"
+                ]
+            }
+        ],
+        "thursday": [
+            {
+                "description": "",
+                "name": "Spicy chicken curry, ris",
+                "price": "105",
+                "tags": [
+                    "Gluten free",
+                    "Lactose free"
+                ]
+            },
+            {
+                "description": "",
+                "name": "Chorizo with stewed potatoes",
+                "price": "105",
+                "tags": [
+                    "Gluten free",
+                    "Lactose free"
+                ]
+            },
+            {
+                "description": "",
+                "name": "Vegan soya steaks with rice",
+                "price": "105",
+                "tags": []
+            }
+        ],
+        "friday": [
+            {
+                "description": "",
+                "name": "Cheese & turkey stuffed schnitzel, french fries, b\u00e9arnaise butter",
+                "price": "105",
+                "tags": []
+            },
+            {
+                "description": "",
+                "name": "Rubbed chicken, rice, ajvar crem\u00e9",
+                "price": "105",
+                "tags": [
+                    "Gluten free",
+                    "Lactose free"
+                ]
+            },
+            {
+                "description": "",
+                "name": "Fried tofu with vegetables",
+                "price": "105",
+                "tags": [
+                    "Vegan"
+                ]
+            },
+            {
+                "description": "",
+                "name": "Dessert",
+                "price": "",
+                "tags": []
+            }
+        ],
+        "saturday": [
+            {
+                "description": "",
+                "name": "Today's dish coming soon",
+                "price": "105",
+                "tags": []
+            }
+        ],
+        "sunday": [
+            {
+                "description": "",
+                "name": "Today's dish coming soon",
+                "price": "105",
+                "tags": []
+            }
+        ]
+    },
+    "last_updated": "2023-05-02 07:28:09",
+    "account_type_id": 3,
+    "cityID": "LemybXZjT2yGjYtzzVrD2Q=="
+}
